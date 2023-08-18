@@ -1,0 +1,199 @@
+#sign{
+    display: inline;
+    position: relative;
+    top: 90px;
+    left: 140px;
+    color:rgb(253, 253, 253);
+    
+}
+.page1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    font-size: 1.5em;
+    color:rgb(253, 253, 253);
+    background-color: rgb(109, 111, 111);
+    line-height: 50%;
+    position:relative;
+    left: 770px;
+    bottom: 0.1px;
+    top:140px;
+    background: transparent;
+    border: 3px  grey;
+    
+}
+#first{
+    margin-top: 5px;    
+    margin-bottom: 5px;
+    background: transparent;
+    border: 3px solid grey;
+    color:rgb(253, 253, 253);
+    font-size: 1em;
+    padding: 5px 5px;
+    border-radius: 20px;
+
+
+}
+#last{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: transparent;
+    color:rgb(253, 253, 253);
+    border: 3px solid grey;
+    color: grey;
+    font-size: 1em;
+    padding: 5px 5px;
+    border-radius: 20px;
+    
+
+}
+.full{
+    background-color: rgb(34, 34, 34);
+    
+}
+.page2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    line-height: 50%;
+    position:relative;
+    left: 70px;
+    bottom: 120px;
+    color:rgb(253, 253, 253);
+    
+}
+.btn1{
+    margin-bottom: 30px;
+    background-color: transparent;
+    font-size: 20px;
+    padding: 12px 32px;
+    border-style: solid;
+    border-radius: 9999px;
+    border-width: 2px;
+    border-color: rgb(107, 225, 11);
+    color: rgb(0, 41, 56);
+    font-weight: 600;
+    -webkit-box-align: center;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    line-height: 25.6px;
+    white-space: nowrap;
+    margin-bottom: 4px;
+    margin-right: 4px;
+    box-shadow: rgb(12, 236, 4) 2px 4px 0px 2px;
+    outline: none;
+    color:rgb(253, 253, 253);
+}
+.btn1:hover{
+    color: aqua;
+    border-color: aqua;
+    box-shadow: rgb(7, 245, 229) 2px 4px 0px 2px;
+}
+.btn2{
+    margin-bottom: 100px;
+    margin-top: 20px;
+    background-color: transparent;
+    font-size: 20px;
+    padding: 12px 32px;
+    border-style: solid;
+    border-radius: 9999px;
+    border-width: 2px;
+    border-color: rgb(107, 225, 11);
+    color: rgb(0, 41, 56);
+    font-weight: 600;
+    -webkit-box-align: center;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    line-height: 25.6px;
+    white-space: nowrap;
+    margin-bottom: 4px;
+    margin-right: 4px;
+    box-shadow: rgb(12, 236, 4) 2px 4px 0px 2px;
+    outline: none;
+    color:rgb(253, 253, 253);
+}
+.btn2:hover{
+    color: aqua;
+    border-color: aqua;
+    box-shadow: rgb(7, 245, 229) 2px 4px 0px 2px;
+}
+.btn3{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    background-color: transparent;
+    font-size: 20px;
+    padding: 12px 32px;
+    border-style: solid;
+    border-radius: 9999px;
+    border-width: 2px;
+    border-color: rgb(107, 225, 11);
+    color: rgb(0, 41, 56);
+    font-weight: 600;
+    -webkit-box-align: center;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    line-height: 25.6px;
+    white-space: nowrap;
+    margin-bottom: 4px;
+    margin-right: 4px;
+    box-shadow: rgb(12, 236, 4) 2px 4px 0px 2px;
+    outline: none;
+    color:rgb(253, 253, 253);
+
+}
+.btn3:hover{
+    color: aqua;
+    border-color: aqua;
+    box-shadow: rgb(7, 245, 229) 2px 4px 0px 2px;
+}
+.btn4{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: transparent;
+    font-size: 20px;
+    padding: 12px 32px;
+    border-style: solid;
+    border-radius: 9999px;
+    border-width: 2px;
+    border-color: rgb(107, 225, 11);
+    color: rgb(0, 41, 56);
+    font-weight: 600;
+    -webkit-box-align: center;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    line-height: 25.6px;
+    white-space: nowrap;
+    margin-bottom: 4px;
+    margin-right: 4px;
+    box-shadow: rgb(12, 236, 4) 2px 4px 0px 2px;
+    outline: none;
+    color:rgb(253, 253, 253);
+
+}
+.btn4:hover{
+    color: aqua;
+    border-color: aqua;
+    box-shadow: rgb(7, 245, 229) 2px 4px 0px 2px;
+}
+
+.list1{
+    list-style: none;
+}
+.vl {
+    border-left: 4px solid rgb(173, 176, 173);
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  margin-left: -350px;
+  top: 0;
+  }
